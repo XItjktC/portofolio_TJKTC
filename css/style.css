@@ -45,7 +45,7 @@ body {
 .hero_area {
   height: calc(100vh - 30px);
   background: -webkit-gradient(linear, left top, right top, color-stop(55%, #1a2e35), color-stop(55%, #1cbbb4));
-  background: linear-gradient(to right, #1a2e35 55%, #1cbbb4 55%);
+  background: linear-gradient(to right, #1a2e35 55%, #1a2e35 55%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
